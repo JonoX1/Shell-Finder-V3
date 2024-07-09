@@ -4,13 +4,13 @@ Shell Finder V3
 Python command line utility which lets you look for shells on a site that the hacker must have uploaded. It considers all the shells available and tries all possibilities via dictionary match.							
 								
 ##Releases
-[Shell Finder V1.1](https://github.com/bhavyanshu/Shell-Finder/releases/tag/v1.1)					
+[Shell Finder V3.0](https://github.com/JonoX1/Shell-Finder-V3/archive/refs/heads/main.zip))					
 
 
 ##LICENSE
 
 
-> Copyright 2013 Bhavyanshu Parasher (http://bhavyanshu.github.io).
+> Copyright 2013 Bhavyanshu Parasher (http://JonoX1.github.io).
 
 > Licensed under the Apache License, Version 2.0 (the "License"); you
 may not use this project except in compliance with the License. You 
